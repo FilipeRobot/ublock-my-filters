@@ -1,3 +1,8 @@
+! Title: uBlock my filters
+! Author: FilipeRobot | https://github.com/FilipeRobot/ublock-my-filters
+! Description: Filter list created on my ublock extension
+! Homepage: https://github.com/FilipeRobot/ublock-my-filters
+
 ! 2021-05-05 https://mangayabu.top
 mangayabu.top##.closebf
 
