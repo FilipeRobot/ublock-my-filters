@@ -1,0 +1,27 @@
+! 2021-05-05 https://mangayabu.top
+mangayabu.top##.closebf
+
+! 2023-10-20 https://socientifica.com.br
+socientifica.com.br##.light-scheme.mfp-animation.site-access-popup
+socientifica.com.br##.mfp-inline-holder.mfp-container
+socientifica.com.br##.mfp-ready.site-access-popup.popup-animation.mfp-auto-cursor.mfp-wrap
+socientifica.com.br##.mfp-ready.site-access-popup.popup-animation.mfp-bg
+
+! 2024-01-19 https://belezaedieta.net
+belezaedieta.net##.dark
+belezaedieta.net##.show.adblock-wrapper
+
+! 2024-05-05 https://goyabu.to
+goyabu.to##.adblock-dark
+goyabu.to##.show.adblock-wrapper
+
+! 29 de jun. de 2024 https://dailynewsking.com
+dailynewsking.com##.show.modal-cuz.fade.modal
+dailynewsking.com##.show.fade.modal-backdrop
+
+! 23 de jul. de 2024 https://limontorrents.com
+limontorrents.com##.active.rJMVSfumyilnThNBULrAXdOegEl2-the-modal.rJMVSfumyilnThNBULrAXdOegEl2-modal
+limontorrents.com##.active.rJMVSfumyilnThNBULrAXdOegEl2-blackout
+limontorrents.com##.active.rJMVSfumyilnThNBULrAXdOegEl2.rJMVSfumyilnThNBULrAXdOegEl2-style-full
+limontorrents.com##.active.rJMVSfumyilnThNBULrAXdOegEl2.rJMVSfumyilnThNBULrAXdOegEl2-blur
+
